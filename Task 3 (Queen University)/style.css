@@ -1,0 +1,233 @@
+			/* nav */
+nav {
+	background: #fff9f3;
+}
+nav img {
+	width: 50px;
+	height: auto;
+}
+nav ul li a {
+	border-bottom: .25rem solid transparent;
+	
+}
+nav ul li a:hover {
+	border-bottom-color: #ffb157;
+}
+nav .alpha {
+	border-radius: 50%;
+	padding: 10px;
+	text-decoration: none;
+	color: ;
+}
+
+
+		/* header-area */
+
+.header-area {
+	background: url('img/home-01.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	min-height: 700px;
+}
+.main-text {
+	padding-top: 170px;
+}
+.main-text h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+.main-text p {
+	font-size: 16px;
+}
+
+
+
+			/* department */
+
+
+.department {
+	background: url('img/circle.png');
+	background-repeat: no-repeat;
+	background-size: 50% auto;
+	background-position: left top;
+}
+.department .text-area {
+	background: url('img/leaf.png');
+	background-repeat: no-repeat;
+	background-size: 50% auto;
+	background-position: right top;
+}
+
+.department h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+.department h2:after {
+	 content: "";
+	 display: block;
+	 height: 4px;
+	 background: #ffb157;
+	 width: 85px;
+	 margin: auto;
+	 margin-top: 20px;
+ }
+.department-heading {
+	margin-bottom: 30px;
+}
+
+.video {
+	padding-top: 80px;
+}
+.video h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+
+
+		 /* availability */
+		 
+		 
+.availability {
+	padding: 60px 0;
+	background: url('img/circle2.png');
+	background-repeat: no-repeat;
+	background-size: 50% auto;
+	background-position: right top;
+}		 
+.availability-head {
+	margin-bottom: 80px;
+}
+.availability-head h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+.availability-head h3:after {
+	 content: "";
+	 display: block;
+	 height: 4px;
+	 background: #ffb157;
+	 width: 85px;
+	 margin: auto;
+	 margin-top: 20px;
+ }
+
+.availability .second-part {
+	margin-top: 50px;
+}
+
+
+
+      /* teacher */
+
+.teacher {
+	padding: 80px 0;
+	background: #fff9f3;
+}
+.teacher img {
+	width: 60%;
+	margin: auto;
+	display: block;
+	margin-top: 20px;
+}
+
+
+.teacher h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	margin-bottom: 50px;
+	text-transform: capitalize;
+	
+}
+.teacher h2:after {
+	 content: "";
+	 display: block;
+	 height: 4px;
+	 background: #ffb157;
+	 width: 85px;
+	 margin: auto;
+	 margin-top: 20px;
+ }
+.social-icon a img {
+	width: 50px;
+	height: auto;
+	transition: 0.5s;
+}
+.social-icon ul {
+	padding: 0;
+	padding-top: 20px;
+}
+.social-icon ul li {
+	display: inline-block;
+	margin: 0 5px;
+}
+.social-icon ul li a:hover img {
+	transform: translateY(-10px);
+}
+     /* vice-chancellor-area */
+	 
+.VC-area {
+	padding: 80px 0;
+}	 
+.VC-area h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	margin-bottom: 50px;
+	text-transform: capitalize; 
+}
+.VC-area h2:after {
+	 content: "";
+	 display: block;
+	 height: 4px;
+	 background: #ffb157;
+	 width: 85px;
+	 margin: auto;
+	 margin-top: 20px;
+ }
+
+	 
+.picture {
+	box-shadow: 10px 15px 10px black;
+}
+.speech {
+	padding-top: 80px;
+}
+ 
+ 
+ 
+ 
+
+
+
+
+			/* description-area */
+
+.description-area {
+	padding: 80px 0;
+	background: #252c3a;
+	color: #fff;
+}
+.description-area dt {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	border-bottom: 2px solid orange;
+}			
+
+
+
+
+		/* copyright */
+
+
+.scroll a {
+	border: 2px solid black;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+		
+.copyright p {
+	background: #fff9f3;
+	color: black;
+	padding: 15px;
+}
